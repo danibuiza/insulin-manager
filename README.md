@@ -1,4 +1,4 @@
-# Insulin Calculator
+# Insulin Manager
 
 A web-based insulin dose calculator for people with diabetes. Calculates bolus insulin based on carbohydrates, blood glucose levels, and various adjustment factors.
 
